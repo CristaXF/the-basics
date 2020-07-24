@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>This is the title of the page</title>
+  </head>
+<body>
+<p><cite>A Brief History of Time</cite>by Stephen Hawking has sold over ten million copies worldwide.</p>
+<p>A <dfn>black hole</dfn> is a region of space from which nothing can escape.</p>
+<p>Here are address tags</p>
+<address class="email">
+  <p><a href="mailto: home@example.org">home@example.org</a></p>
+</address>
+
+<p>It was the <del>worst</del> <ins>best</ins> idea she ever had. </p>
+
+
+</body>
+</html>
