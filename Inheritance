@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="example.css">
+    <title></title>
+  </head>
+  <h1>Potatoes</h1>
+  <body>
+  <div class="page">
+  <p id="intro">There are dozens of differnt
+  potato varieties.</p>
+  <p>They are usually described as early, second early and maincrop potatoes.</p>
+  </div>
+  </body>
+</html>
+
+body{
+  font-family: Arial, Verdana, sans-serif;
+  color: #665544;
+  padding: 10px;
+}
+.page{
+  border:1px solid #665544;
+  background-color: #efefef;
+  padding: inherit;
+}
