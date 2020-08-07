@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="example.css">
+    <title></title>
+  </head>
+  <h1>Marine Biology</h1>
+  <h2>The Composition of Seawater</h2>
+  <body>
+  <div class="page">
+  <p>This is text about the components of seawater.</p>
+  </div>
+  </body>
+</html>
+
+
+h1 {
+  color: DarkCyan;
+}
+/* hex code */
+h2{
+  color: #ee3e80;
+}
+/* rgb value */
+p {
+  color: rgb(100, 100, 90);
+}
